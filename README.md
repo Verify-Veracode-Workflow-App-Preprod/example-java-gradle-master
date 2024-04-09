@@ -1,4 +1,4 @@
-# [:] Example Gradle Project
+# [:] Example Gradle Project - Scan
 
 An example gradle project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
